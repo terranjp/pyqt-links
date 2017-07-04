@@ -1,6 +1,10 @@
 # pyqt-links
 Tutorials and resources I have collected on PyQt
 
+[PySide Wiki](https://wiki.qt.io/PySide)
+[PySide Tutorials](https://wiki.qt.io/PySide_Tutorials)
+[PySide-QtQuick-Tutorials](https://wiki.qt.io/PySide-QtQuick-Tutorials)
+
 [Wikibooks - Python Programming/PyQt4](https://en.wikibooks.org/wiki/Python_Programming/PyQt4)
 
 [PyQt: Getting started with PyQt and Qt Designer](https://nikolak.com/pyqt-qt-designer-getting-started/)
@@ -29,4 +33,18 @@ Tutorials and resources I have collected on PyQt
 
 [Write a web browser](http://i-miss-erin.blogspot.com/2009/03/write-web-browser-by-python.html)
 
+[SaltyCraneBlog - PyQt](https://www.saltycrane.com/blog/tag/pyqt/)
+
+
+[Freecad - PySide Examples](https://www.freecadweb.org/wiki/PySide)
+
+Videos
+[sentdex PyQT Python GUI Application Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4)
+[Let's Learn Python #24 - UI with Python, PyQt & Qt Designer](https://www.youtube.com/watch?v=GLqrzLIIW2E)
+[Let's Learn Python #25 - UI with PyQt & OpenG](https://www.youtube.com/watch?v=eJveTXSXs8Q)
+
 *Views
+[QGraphicsView and QGraphicsScene](http://www.rkblog.rk.edu.pl/w/p/qgraphicsview-and-qgraphicsscene/)
+[How To Customize QTableView's Editing Behavior](https://www.hardcoded.net/articles/how-to-customize-qtableview-editing-behavior)
+[Using QTreeView with QAbstractItemModel](https://www.hardcoded.net/articles/using_qtreeview_with_qabstractitemmodel)
+[Styling Qt QTreeView with CSS](https://joekuan.wordpress.com/2015/10/02/styling-qt-qtreeview-with-css/)
