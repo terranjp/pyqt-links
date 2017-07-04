@@ -1,11 +1,15 @@
 # pyqt-links
 Tutorials and resources I have collected on PyQt
 
+[Wikibooks - Python Programming/PyQt4](https://en.wikibooks.org/wiki/Python_Programming/PyQt4)
 
 [PyQt: Getting started with PyQt and Qt Designer](https://nikolak.com/pyqt-qt-designer-getting-started/)
 
+[Python For Engineers - Your first GUI app with Python and PyQt](http://pythonforengineers.com/your-first-gui-app-with-python-and-pyqt/) 
+
 [Zetcode PyQt5 Tutorial](http://zetcode.com/gui/pyqt5/)
 [Zetcode PyQt4 Tutorial](http://zetcode.com/gui/pyqt4/)
+
 [Zetcode Advanced PyQt5 Tutorial](http://zetcode.com/ebooks/advancedpyqt4/)
 
 [PythonSpot PyQt Tutorials](https://pythonspot.com/en/pyqt4/)
@@ -16,5 +20,13 @@ Tutorials and resources I have collected on PyQt
 
 [Doug T's Blog - When a QThread isn't a thread...](http://ilearnstuff.blogspot.com/2012/08/when-qthread-isnt-thread.html)
 
+[Learning Python - An Introduction to PyQt: creating GUIs with Python’s QT bindings](An Introduction to PyQt: creating GUIs with Python’s QT bindings)
+
 
 [Developing Cross Platform Application using Qt, PyQt and PySide](http://pythonthusiast.pythonblogs.com/230_pythonthusiast/archive/1348_developing_cross_platform_application_using_qt_pyqt_and_pyside__introduction-part_1_of_5.html)
+
+[Test PyQt GUIs with QTest and unittest](http://johnnado.com/pyqt-qtest-example/)
+
+[Write a web browser](http://i-miss-erin.blogspot.com/2009/03/write-web-browser-by-python.html)
+
+*Views
