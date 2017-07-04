@@ -1,6 +1,8 @@
 # pyqt-links
 Tutorials and resources I have collected on PyQt
 
+--- Currently just a dump of links in my favorites folder...
+
 [PySide Wiki](https://wiki.qt.io/PySide)
 [PySide Tutorials](https://wiki.qt.io/PySide_Tutorials)
 [PySide-QtQuick-Tutorials](https://wiki.qt.io/PySide-QtQuick-Tutorials)
