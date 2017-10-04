@@ -3,6 +3,7 @@ Tutorials and resources I have collected on PyQt
 
 --- Currently just a dump of links in my favorites folder...
 
+## Tutorials
 [PySide Wiki](https://wiki.qt.io/PySide)
 
 [PySide Tutorials](https://wiki.qt.io/PySide_Tutorials)
@@ -18,6 +19,7 @@ Tutorials and resources I have collected on PyQt
 [Python For Engineers - Your first GUI app with Python and PyQt](http://pythonforengineers.com/your-first-gui-app-with-python-and-pyqt/) 
 
 [Zetcode PyQt5 Tutorial](http://zetcode.com/gui/pyqt5/)
+
 [Zetcode PyQt4 Tutorial](http://zetcode.com/gui/pyqt4/)
 
 [Zetcode Advanced PyQt5 Tutorial](http://zetcode.com/ebooks/advancedpyqt4/)
@@ -44,7 +46,7 @@ Tutorials and resources I have collected on PyQt
 
 [Freecad - PySide Examples](https://www.freecadweb.org/wiki/PySide)
 
-Videos
+## Videos
 [sentdex PyQT Python GUI Application Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4)
 
 [Let's Learn Python #24 - UI with Python, PyQt & Qt Designer](https://www.youtube.com/watch?v=GLqrzLIIW2E)
