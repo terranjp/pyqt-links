@@ -49,7 +49,7 @@ Tutorials and resources I have collected on PyQt
 
 [Let's Learn Python #25 - UI with PyQt & OpenG](https://www.youtube.com/watch?v=eJveTXSXs8Q)
 
-### Views
+## Views
 
 [QGraphicsView and QGraphicsScene](http://www.rkblog.rk.edu.pl/w/p/qgraphicsview-and-qgraphicsscene/)
 
