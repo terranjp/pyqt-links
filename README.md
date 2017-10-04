@@ -32,9 +32,6 @@ Tutorials and resources I have collected on PyQt
 
 [Doug T's Blog - When a QThread isn't a thread...](http://ilearnstuff.blogspot.com/2012/08/when-qthread-isnt-thread.html)
 
-[Learning Python - An Introduction to PyQt: creating GUIs with Python’s QT bindings](An Introduction to PyQt: creating GUIs with Python’s QT bindings)
-
-
 [Developing Cross Platform Application using Qt, PyQt and PySide](http://pythonthusiast.pythonblogs.com/230_pythonthusiast/archive/1348_developing_cross_platform_application_using_qt_pyqt_and_pyside__introduction-part_1_of_5.html)
 
 [Test PyQt GUIs with QTest and unittest](http://johnnado.com/pyqt-qtest-example/)
@@ -42,7 +39,6 @@ Tutorials and resources I have collected on PyQt
 [Write a web browser](http://i-miss-erin.blogspot.com/2009/03/write-web-browser-by-python.html)
 
 [SaltyCraneBlog - PyQt](https://www.saltycrane.com/blog/tag/pyqt/)
-
 
 [Freecad - PySide Examples](https://www.freecadweb.org/wiki/PySide)
 
@@ -53,7 +49,7 @@ Tutorials and resources I have collected on PyQt
 
 [Let's Learn Python #25 - UI with PyQt & OpenG](https://www.youtube.com/watch?v=eJveTXSXs8Q)
 
-*Views
+### Views
 
 [QGraphicsView and QGraphicsScene](http://www.rkblog.rk.edu.pl/w/p/qgraphicsview-and-qgraphicsscene/)
 
@@ -62,3 +58,12 @@ Tutorials and resources I have collected on PyQt
 [Using QTreeView with QAbstractItemModel](https://www.hardcoded.net/articles/using_qtreeview_with_qabstractitemmodel)
 
 [Styling Qt QTreeView with CSS](https://joekuan.wordpress.com/2015/10/02/styling-qt-qtreeview-with-css/)
+
+## Source Code 
+
+[Spyder](https://github.com/spyder-ide/spyder)
+
+[Orange 3](https://github.com/biolab/orange3)
+
+[Calibre](https://github.com/kovidgoyal/calibre)
+
